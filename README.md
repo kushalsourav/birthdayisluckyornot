@@ -1,4 +1,4 @@
 # bithdaysluckyornot
 
 
-birthdayluckyornot123.netlify.app
+https://birthdayluckyornot123.netlify.app
