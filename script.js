@@ -10,7 +10,7 @@ function compareValues(sum, luckyNumber) {
     }
 }
 
-function checkBithDateisLucky() {
+function checkBirthDateisLucky() {
     const dob = dateOfBirth.value;
     // console.log(dob)
     var sum = calculateSum(dob);
@@ -33,4 +33,4 @@ function calculateSum(dob) {
 
 }
 
-checkButton.addEventListener('click', checkBithDateisLucky);
+checkButton.addEventListener('click', checkBirthDateisLucky);
